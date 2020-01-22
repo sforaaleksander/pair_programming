@@ -13,3 +13,7 @@ Extras:
 
 1) Randomly generate two lists to test this
 2) Write this in one line of Python
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> repo-b/master

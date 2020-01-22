@@ -8,4 +8,8 @@ Exercise:
    - for the multiples of five, print "Buzz",
    - for numbers which are multiples of both three and five, print "FizzBuzz".
 
+<<<<<<< HEAD
    Implement the `fizzbuzz` function so that it returns the correct value to print.
+=======
+   Implement the `fizzbuzz` function so that it returns the correct value to print. 
+>>>>>>> repo-b/master

@@ -7,6 +7,10 @@ strong passwords have a mix of lowercase letters, uppercase letters, numbers, an
 The passwords should be minimum 8 characters long, random, generating a new password every time the user asks for a new password.
 Include your generator code in the "passwordgen" function.
 
+<<<<<<< HEAD
 Extra:
+=======
+Extra: 
+>>>>>>> repo-b/master
 
 Ask the user how strong they want their password to be. For weak passwords, pick a word or two from a list.
